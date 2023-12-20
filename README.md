@@ -1,1 +1,1 @@
-[Проекты](https://github.com/etozia/project.git)
+[Home](https://github.com/etozia/project.git)
